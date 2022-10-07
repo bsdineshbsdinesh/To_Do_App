@@ -9,6 +9,9 @@
     margin : auto;
     border-radius : 10px;
 }
+#container:hover{
+    background : linear-gradient(blue , green , red);
+}
 label{
     display: block;
     font-size: 30px;
